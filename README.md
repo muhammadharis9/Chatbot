@@ -5,7 +5,6 @@ This repo contains a simple end-to-end **Retrieval-Augmented Generation (RAG)** 
 By default, it is designed to chat over the **“Agentic AI” book** (or any similar PDF you put in the `dataset/` folder). The bot **does not invent knowledge on its own** – instead, it retrieves relevant passages from the book and uses them as context for the answer.
 
 > ⚠️ This project is for learning and experimentation only.  
-> It must **not** be used for real medical or clinical decision-making.
 
 ---
 
